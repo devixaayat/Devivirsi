@@ -1,6 +1,5 @@
 ﻿#!/system/bin/sh
 clear
-echo " "
 echo -e "\e[1m\e[33m============================================\e[21m"
 echo " "
 echo -e "\e[33m Welcome to [\e[1m\e[32mDEVI KING \e[21m\e[31m V 2.3\e[33m]"
